@@ -106,11 +106,11 @@
 	}
 	.footer-content .social{margin: 0 auto 30px;}
 	.footer-content .social li{margin: 0 0 0 4px; width: 50px; height: 50px;}
-	.footer-content .social li.email a{	background-size: 20px auto;	}
-	.footer-content .social li.facebook a{	background-size: 15px auto;	}
-	.footer-content .social li.google a{	background-size: 20px auto;	}
-	.footer-content .social li.twitter a{	background-size: 20px auto;	}
-	.footer-content .social li.linkedin a{	background-size: 20px auto;	}
+	.footer-content .social li.email a{	background-size: 1.5em auto;	}
+	.footer-content .social li.facebook a{	background-size: 1.5em auto;	}
+	.footer-content .social li.github a{	background-size: 2em auto;	}
+	.footer-content .social li.instagram a{	background-size: 2em auto;	}
+	.footer-content .social li.linkedin a{	background-size: 2.5em auto;	}
 	.footer-content .social{width: 269px;}
 	.logo {font-size: 56px;line-height: 68px;}
 	#wrapper.inner .menu_trigger,#wrapper.portfolio .menu_trigger{top: 6px;}
@@ -173,7 +173,7 @@
 	.plagin_list.none{display: none;}
 	.plagin_list{display: block;}
 	.plagin_list li,.plagin_list li:first-child{display: inline-block; vertical-align: top; width: 45%; height: auto; border: 0;margin: 0 2% 2% 2%;}
-	.plagin_list li a,.plagin_list li:first-child a{width: 121px;height: 121px;border: 1px solid #46484c;border-radius: 50%;margin: 0 auto;}
+	.plagin_list li a,.plagin_list li:first-child a{width: 121px;height: 121px;margin: 0 auto;}
 	.plagin_list{margin: 0 0 20px;}
 	#main{margin: 0 10px;}
 /* 	.item-list{margin: 0;}

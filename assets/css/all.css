@@ -364,7 +364,7 @@ h2.slogan{
 	height: 100%;
 	position: relative;
 }
-.plagin_list li.li_1 a{background: url(../images/angular.png) no-repeat 50% 50% ;background-size: 65px;}
+.plagin_list li.li_1 a{background: url(../images/logos/angular.png) no-repeat 50% 50% ;background-size: 50px;}
 .plagin_list li.li_2 a{background: url(../images/logos/node.png) no-repeat 50% 50% ;background-size: 65px;}
 .plagin_list li.li_3 a{background: url(../images/logos/bootstrap.png) no-repeat 50% 50% ;background-size: 65px;}
 .plagin_list li.li_5 a{background: url(../images/logos/ts.png) no-repeat 50% 50% ;background-size: 65px;}
@@ -571,7 +571,6 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact span.email{background: url(../images/icon_email2.png) no-repeat;}
 .box_contact span.phone{background: url(../images/icon_phone.png) no-repeat;}
-.box_contact span.skype{background: url(../images/icon_skype.png) no-repeat;}
 /*footer
  */
 #footer {
@@ -699,52 +698,68 @@ transition: all 0.5s ease-in-out;
 		background-size:51px 38px;
 	}
 	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
-		background-size:20px 38px;
+		background-image: url(../images/facebook_footer.png);
+		background-size:2em;
 	}
-	.footer-content .social li.google a{
-		background-image: url(../images/icon_gl@x2.png);
-		background-size:42px 38px;
+	.footer-content .social li.github a{
+		background-image: url(../images/github_footer.png);
+		background-size:2em;
 	}
-	.footer-content .social li.twitter a{
-		background-image: url(../images/icon_tw@x2.png);
-		background-size:44px 34px;
+	.footer-content .social li.instagram a{
+		background-image: url(../images/instagram_footer.png);
+		background-size:2em;
 	}
 	.footer-content .social li.linkedin a{
-		background-image: url(../images/icon_pn@x2.png);
-		background-size:38px 38px;
+		background-image: url(../images/linkedin_footer.png);
+		background-size:2.5em;
 	}
 	.plagin_list li.li_1 a{
-		background-image: url(../images/angular.png);
-		background-size:49px 42px;
+		background-image: url(../images/logos/angular.png);
+		background-size:4em;
 	}
 	.plagin_list li.li_2 a{
-		background-image: url(../images/node.jpg);
-		background-size:45px 42px;
+		background-image: url(../images/logos/node.png);
+		background-size:5em;
 	}
 	.plagin_list li.li_3 a{
-		background-image: url(../images/js.png);
-		background-size:40px 43px;
-	}
-	.plagin_list li.li_4 a{
-		background-image: url(../images/ts.jpeg);
-		background-size:34px 42px;
+		background-image: url(../images/logos/bootstrap.png);
+		background-size:5em;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/mongo.png);
-		background-size:39px 55px;
+		background-image: url(../images/logos/ts.png);
+		background-size:5em;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/mysql.png);
-		background-size:55px 55px;
+		background-image: url(../images/logos/mongo.png);
+		background-size:5em;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/java.jpg);
-		background-size:87px 20px;
+		background-image: url(../images/logos/java.png);
+		background-size:5em;
 	}
-	.plagin_list li.li_8 a{
-		background-image: url(../images/bootstrap4.jpeg);
-		background-size:60px 24px;
+	.plagin_list li.li_9 a{
+		background-image: url(../images/logos/js.png);
+		background-size:5em;
+	}
+	.plagin_list li.li_10 a{
+		background-image: url(../images/logos/css.png);
+		background-size:5em;
+	}
+	.plagin_list li.li_11 a{
+		background-image: url(../images/logos/html.png);
+		background-size:5em;
+	}
+	.plagin_list li.li_12 a{
+		background-image: url(../images/logos/python.png);
+		background-size:5em;
+	}
+	.plagin_list li.li_13 a{
+		background-image: url(../images/logos/webpack.png);
+		background-size:5em;
+	}
+	.plagin_list li.li_14 a{
+		background-image: url(../images/logos/sql.png);
+		background-size:5em;
 	}
 	.box_contact span.email{
 		background-image: url(../images/icon_email2@x2.png);
