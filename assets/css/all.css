@@ -1,40 +1,6 @@
 @font-face {
-    font-family: 'novecentosanswide';
-    src: url('../fonts/novecentosanswide-normal-webfont.eot');
-    src: url('../fonts/novecentosanswide-normal-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/novecentosanswide-normal-webfont.woff') format('woff'),
-         url('../fonts/novecentosanswide-normal-webfont.ttf') format('truetype'),
-         url('../fonts/novecentosanswide-normal-webfont.svg#novecento_sans_widenormal') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'novecentosanswide';
-    src: url('../fonts/novecentosanswide-bold-webfont.eot');
-    src: url('../fonts/novecentosanswide-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/novecentosanswide-bold-webfont.woff') format('woff'),
-         url('../fonts/novecentosanswide-bold-webfont.ttf') format('truetype'),
-         url('../fonts/novecentosanswide-bold-webfont.svg#novecentosanswidebold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'novecento_sans_widebook';
-    src: url('../fonts/novecentosanswide-book-webfont.eot');
-    src: url('../fonts/novecentosanswide-book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/novecentosanswide-book-webfont.woff') format('woff'),
-         url('../fonts/novecentosanswide-book-webfont.ttf') format('truetype'),
-         url('../fonts/novecentosanswide-book-webfont.svg#novecento_sans_widebook') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'novecento_sans_widemedium';
-    src: url('../fonts/novecentosanswide-medium-webfont.eot');
-    src: url('../fonts/novecentosanswide-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/novecentosanswide-medium-webfont.woff') format('woff'),
-         url('../fonts/novecentosanswide-medium-webfont.ttf') format('truetype'),
-         url('../fonts/novecentosanswide-medium-webfont.svg#novecento_sans_widemedium') format('svg');
+    font-family: 'Bebas Neue', cursive;
+    src: url('../fonts/BebasNeue-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -120,7 +86,7 @@ html {height: 100%;}
 body{
 	margin:0;
 	color:#a4a7ac;
-	font:18px Arial, Helvetica, sans-serif;
+	font:18px Arial, Helvetica, Bebas Neue;
 	-webkit-text-size-adjust: none; 
 }
 img{border-style:none; vertical-align: top;}
@@ -155,7 +121,7 @@ a:hover{text-decoration:underline;}
 }
 .logo {
 	text-align:center;
-	font-family: 'novecentosanswide';
+	
 	font-weight:bold;
 	color: #fff;
 	font-size: 72px;
@@ -185,7 +151,7 @@ a:hover{text-decoration:underline;}
 	text-transform: uppercase;
 	padding: 0 0 10px;
 	border-bottom: 4px solid #5b7a00;
-	font-family: 'novecentosanswide';
+	
 	font-weight: normal;
 }
 #nav ul a:hover,#nav ul a.active{
@@ -201,7 +167,6 @@ h2.slogan{
 	display: block;
 	text-align: center;
 	text-transform: uppercase;
-	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
 	color: #ffffff;
@@ -220,7 +185,6 @@ h2.slogan{
 	display: block;
 	text-align: center;
 	text-transform: uppercase;
-	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
 	color: #fff;
@@ -258,7 +222,7 @@ h2.slogan{
 	overflow: hidden;
 }
 .box_timeline ul li .date span{
-	font-family: 'novecentosanswide';
+	
 	font-weight:bold;
 	color: #fff;
 	font-size: 14px;
@@ -268,7 +232,6 @@ h2.slogan{
 	padding: 15px 0 0 0;
 }
 .box_timeline h3{
-	font-family: 'novecento_sans_widemedium';
 	color: #99cc00;
 	font-size: 14px;
 	line-height: 16px;
@@ -277,7 +240,6 @@ h2.slogan{
 	margin: 0 0 10px;
 }
 .box_timeline p{
-	font-family: Arial, Helvetica, sans-serif;
 	color: #a4a7ac;
 	font-size: 16px;
 	line-height: 18px;
@@ -329,7 +291,7 @@ h2.slogan{
 	color: #fff;
 	text-transform:uppercase;
 	display: block;
-	font-family: 'novecentosanswide';
+	
 	font-weight: normal;
 	font-size: 18px;
 	padding: 0 0 0 20px;
@@ -440,7 +402,7 @@ h2.slogan{
 	text-transform: uppercase;
 	padding: 0 0 10px;
 	border-bottom: 4px solid #3b3c3e;
-	font-family: 'novecentosanswide';
+	
 	font-weight: normal;
 }
 .sub_nav a:hover,.sub_nav a.active{
@@ -461,7 +423,7 @@ transition: all 0.5s ease-in-out;
 	margin: 0 22px;
 	padding: 0 0 10px;
 	border-bottom: 4px solid #3b3c3e;
-	font-family: 'novecentosanswide';
+	
 	font-weight: normal;
 }
 .sub_nav li:hover,.sub_nav .active {
@@ -528,7 +490,7 @@ transition: all 0.5s ease-in-out;
 	background: url(../images/bg_white_border.gif) no-repeat 50% 100%;
 	color: #fff;
 	text-transform: uppercase;
-	font-family: 'novecentosanswide';
+	
 	font-weight:bold;
 	font-size: 14px;
 	line-height: 16px;
@@ -561,7 +523,6 @@ transition: all 0.5s ease-in-out;
 }
 .box_contact span{
 	color: #fff;
-	font-family: 'novecento_sans_widebook';
 	font-size: 30px;
 	line-height: 32px;
 	text-transform: uppercase;
@@ -620,7 +581,7 @@ transition: all 0.5s ease-in-out;
 .footer-content .social li.instagram a{background: url(../images/instagram_footer.png) no-repeat 50% 50% ; background-size: 3.5em;}
 .footer-content .social li.linkedin a{background: url(../images/linkedin_footer.png) no-repeat 50% 50%; background-size: 5.5em;}
 .footer-content p{
-	font:18px/20px Arial, Helvetica, sans-serif;
+	font:18px/20px Arial, Helvetica, Bebas Neue;
 	display: block;
 	text-align: center;
 	color: #929c95;
@@ -631,7 +592,7 @@ transition: all 0.5s ease-in-out;
 }
 .popup_portfolio h3{
 	padding-top:26px;
-	font-family: 'novecentosanswide';
+	
 	font-weight:bold;
 	color: #63666a;
 	font-size: 18px;
@@ -639,7 +600,7 @@ transition: all 0.5s ease-in-out;
 	text-transform: uppercase;
 }
 .popup_portfolio time{
-	font-family: 'novecentosanswide';
+	
 	color: #abacaf;
 	font-size: 12px;
 	line-height: 12px;
