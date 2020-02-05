@@ -209,7 +209,7 @@ h2.slogan{
 }
 .box_timeline ul li{
 	float:left;
-	width: 170px;
+	width: 135px;
 	margin: 0 0 0 30px;
 	background: url(../images/bg_ul.gif) repeat-x 0 76px;
 }
@@ -653,26 +653,6 @@ transition: all 0.5s ease-in-out;
 	.box_timeline ul li .date{
 		background-image: url(../images/bg_timeline_c@x2.png);
 		background-size:50px 86px;
-	}
-	.footer-content .social li.email a{
-		background-image: url(../images/icon_email@x2.png);
-		background-size:51px 38px;
-	}
-	.footer-content .social li.facebook a{
-		background-image: url(../images/facebook_footer.png);
-		background-size:2em;
-	}
-	.footer-content .social li.github a{
-		background-image: url(../images/github_footer.png);
-		background-size:2em;
-	}
-	.footer-content .social li.instagram a{
-		background-image: url(../images/instagram_footer.png);
-		background-size:2em;
-	}
-	.footer-content .social li.linkedin a{
-		background-image: url(../images/linkedin_footer.png);
-		background-size:2.5em;
 	}
 	.plagin_list li.li_1 a{
 		background-image: url(../images/logos/angular.png);
