@@ -656,51 +656,39 @@ transition: all 0.5s ease-in-out;
 	}
 	.plagin_list li.li_1 a{
 		background-image: url(../images/logos/angular.png);
-		background-size:4em;
 	}
 	.plagin_list li.li_2 a{
 		background-image: url(../images/logos/node.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_3 a{
 		background-image: url(../images/logos/bootstrap.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_5 a{
 		background-image: url(../images/logos/ts.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_6 a{
 		background-image: url(../images/logos/mongo.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_7 a{
 		background-image: url(../images/logos/java.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_9 a{
 		background-image: url(../images/logos/js.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_10 a{
 		background-image: url(../images/logos/css.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_11 a{
 		background-image: url(../images/logos/html.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_12 a{
 		background-image: url(../images/logos/python.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_13 a{
 		background-image: url(../images/logos/webpack.png);
-		background-size:5em;
 	}
 	.plagin_list li.li_14 a{
 		background-image: url(../images/logos/sql.png);
-		background-size:5em;
 	}
 	.box_contact span.email{
 		background-image: url(../images/icon_email2@x2.png);
